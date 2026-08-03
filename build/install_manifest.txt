@@ -1,0 +1,4 @@
+/usr/bin/cachysurf
+/usr/share/applications/io.cachyos.CachySurf.desktop
+/usr/share/icons/hicolor/scalable/apps/cachysurf.svg
+/usr/lib/cachysurf/install-webhid-access.sh

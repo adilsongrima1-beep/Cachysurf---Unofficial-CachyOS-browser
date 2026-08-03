@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file>assets/cachysurf.svg</file>
+    <file>assets/newtab.html</file>
+    <file>assets/webhid-polyfill.js</file>
+  </qresource>
+</RCC>

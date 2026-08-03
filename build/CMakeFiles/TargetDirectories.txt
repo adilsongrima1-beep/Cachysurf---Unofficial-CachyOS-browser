@@ -1,0 +1,10 @@
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf_qmlimportscan.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/edit_cache.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/rebuild_cache.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/list_install_components.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/install.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/install/local.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/install/strip.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf_autogen_timestamp_deps.dir
+/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf_autogen.dir

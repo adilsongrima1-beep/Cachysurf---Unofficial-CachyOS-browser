@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=Cachy Surf
+Comment=Unofficial CachyOS-styled web browser
+Exec=cachysurf %u
+Icon=cachysurf
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupNotify=true
+StartupWMClass=cachysurf
+Actions=NewWindow;PrivateWindow;
+
+[Desktop Action NewWindow]
+Name=New Window
+Exec=cachysurf
+
+[Desktop Action PrivateWindow]
+Name=New Private Window
+Exec=cachysurf --private

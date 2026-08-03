@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/adilson/Downloads/cachysurf/build/cachysurf_autogen",
+	"CMAKE_BINARY_DIR" : "/home/adilson/Downloads/cachysurf/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/adilson/Downloads/cachysurf/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/adilson/Downloads/cachysurf",
+	"CMAKE_SOURCE_DIR" : "/home/adilson/Downloads/cachysurf",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/adilson/Downloads/cachysurf/build/cachysurf_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/adilson/Downloads/cachysurf/assets/cachysurf.svg",
+		"/home/adilson/Downloads/cachysurf/assets/webhid-polyfill.js",
+		"/home/adilson/Downloads/cachysurf/assets/newtab.html"
+	],
+	"LOCK_FILE" : "/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/adilson/Downloads/cachysurf/build/CMakeFiles/cachysurf_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/adilson/Downloads/cachysurf/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
